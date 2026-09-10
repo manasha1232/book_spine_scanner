@@ -1,0 +1,307 @@
+{
+  "timestamp": "2026-09-10 20:42:54",
+  "image_scanned": "bookshelf.jpg",
+  "total_books_detected": 11,
+  "thickness_breakdown": {
+    "Thick (Volume)": 11
+  },
+  "books": [
+    {
+      "book_id": 1,
+      "confidence": 0.762,
+      "position": {
+        "x1": 130,
+        "y1": 273,
+        "x2": 549,
+        "y2": 440,
+        "center_x": 339,
+        "center_y": 356
+      },
+      "spine_dimensions": {
+        "width_px": 419,
+        "height_px": 167,
+        "aspect_ratio": 0.4,
+        "thickness_category": "Thick (Volume)"
+      },
+      "spine_color": {
+        "hex": "#886b67",
+        "bgr": [
+          103,
+          107,
+          136
+        ],
+        "color_name": "Red / Maroon"
+      }
+    },
+    {
+      "book_id": 2,
+      "confidence": 0.444,
+      "position": {
+        "x1": 135,
+        "y1": 270,
+        "x2": 555,
+        "y2": 378,
+        "center_x": 345,
+        "center_y": 324
+      },
+      "spine_dimensions": {
+        "width_px": 420,
+        "height_px": 108,
+        "aspect_ratio": 0.26,
+        "thickness_category": "Thick (Volume)"
+      },
+      "spine_color": {
+        "hex": "#7e5f58",
+        "bgr": [
+          88,
+          95,
+          126
+        ],
+        "color_name": "Red / Maroon"
+      }
+    },
+    {
+      "book_id": 3,
+      "confidence": 0.404,
+      "position": {
+        "x1": 188,
+        "y1": 178,
+        "x2": 567,
+        "y2": 253,
+        "center_x": 377,
+        "center_y": 215
+      },
+      "spine_dimensions": {
+        "width_px": 379,
+        "height_px": 75,
+        "aspect_ratio": 0.2,
+        "thickness_category": "Thick (Volume)"
+      },
+      "spine_color": {
+        "hex": "#4b3b32",
+        "bgr": [
+          50,
+          59,
+          75
+        ],
+        "color_name": "Red / Maroon"
+      }
+    },
+    {
+      "book_id": 4,
+      "confidence": 0.474,
+      "position": {
+        "x1": 195,
+        "y1": 127,
+        "x2": 565,
+        "y2": 195,
+        "center_x": 380,
+        "center_y": 161
+      },
+      "spine_dimensions": {
+        "width_px": 370,
+        "height_px": 68,
+        "aspect_ratio": 0.18,
+        "thickness_category": "Thick (Volume)"
+      },
+      "spine_color": {
+        "hex": "#85584d",
+        "bgr": [
+          77,
+          88,
+          133
+        ],
+        "color_name": "Red / Maroon"
+      }
+    },
+    {
+      "book_id": 5,
+      "confidence": 0.414,
+      "position": {
+        "x1": 155,
+        "y1": 263,
+        "x2": 663,
+        "y2": 314,
+        "center_x": 409,
+        "center_y": 288
+      },
+      "spine_dimensions": {
+        "width_px": 508,
+        "height_px": 51,
+        "aspect_ratio": 0.1,
+        "thickness_category": "Thick (Volume)"
+      },
+      "spine_color": {
+        "hex": "#836e60",
+        "bgr": [
+          96,
+          110,
+          131
+        ],
+        "color_name": "Red / Maroon"
+      }
+    },
+    {
+      "book_id": 6,
+      "confidence": 0.668,
+      "position": {
+        "x1": 183,
+        "y1": 30,
+        "x2": 653,
+        "y2": 80,
+        "center_x": 418,
+        "center_y": 55
+      },
+      "spine_dimensions": {
+        "width_px": 470,
+        "height_px": 50,
+        "aspect_ratio": 0.11,
+        "thickness_category": "Thick (Volume)"
+      },
+      "spine_color": {
+        "hex": "#b15e23",
+        "bgr": [
+          35,
+          94,
+          177
+        ],
+        "color_name": "Red / Maroon"
+      }
+    },
+    {
+      "book_id": 7,
+      "confidence": 0.532,
+      "position": {
+        "x1": 182,
+        "y1": 201,
+        "x2": 673,
+        "y2": 306,
+        "center_x": 427,
+        "center_y": 253
+      },
+      "spine_dimensions": {
+        "width_px": 491,
+        "height_px": 105,
+        "aspect_ratio": 0.21,
+        "thickness_category": "Thick (Volume)"
+      },
+      "spine_color": {
+        "hex": "#6f5f52",
+        "bgr": [
+          82,
+          95,
+          111
+        ],
+        "color_name": "Red / Maroon"
+      }
+    },
+    {
+      "book_id": 8,
+      "confidence": 0.419,
+      "position": {
+        "x1": 193,
+        "y1": 73,
+        "x2": 663,
+        "y2": 150,
+        "center_x": 428,
+        "center_y": 111
+      },
+      "spine_dimensions": {
+        "width_px": 470,
+        "height_px": 77,
+        "aspect_ratio": 0.16,
+        "thickness_category": "Thick (Volume)"
+      },
+      "spine_color": {
+        "hex": "#965352",
+        "bgr": [
+          82,
+          83,
+          150
+        ],
+        "color_name": "Red / Maroon"
+      }
+    },
+    {
+      "book_id": 9,
+      "confidence": 0.401,
+      "position": {
+        "x1": 185,
+        "y1": 186,
+        "x2": 672,
+        "y2": 261,
+        "center_x": 428,
+        "center_y": 223
+      },
+      "spine_dimensions": {
+        "width_px": 487,
+        "height_px": 75,
+        "aspect_ratio": 0.15,
+        "thickness_category": "Thick (Volume)"
+      },
+      "spine_color": {
+        "hex": "#62554d",
+        "bgr": [
+          77,
+          85,
+          98
+        ],
+        "color_name": "Red / Maroon"
+      }
+    },
+    {
+      "book_id": 10,
+      "confidence": 0.526,
+      "position": {
+        "x1": 192,
+        "y1": 120,
+        "x2": 670,
+        "y2": 201,
+        "center_x": 431,
+        "center_y": 160
+      },
+      "spine_dimensions": {
+        "width_px": 478,
+        "height_px": 81,
+        "aspect_ratio": 0.17,
+        "thickness_category": "Thick (Volume)"
+      },
+      "spine_color": {
+        "hex": "#8e6760",
+        "bgr": [
+          96,
+          103,
+          142
+        ],
+        "color_name": "Red / Maroon"
+      }
+    },
+    {
+      "book_id": 11,
+      "confidence": 0.722,
+      "position": {
+        "x1": 198,
+        "y1": 106,
+        "x2": 667,
+        "y2": 147,
+        "center_x": 432,
+        "center_y": 126
+      },
+      "spine_dimensions": {
+        "width_px": 469,
+        "height_px": 41,
+        "aspect_ratio": 0.09,
+        "thickness_category": "Thick (Volume)"
+      },
+      "spine_color": {
+        "hex": "#955655",
+        "bgr": [
+          85,
+          86,
+          149
+        ],
+        "color_name": "Red / Maroon"
+      }
+    }
+  ]
+}
